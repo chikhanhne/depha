@@ -1,5 +1,5 @@
 .container{
-    max-width: 90%;
+    max-width: 99%;
 }
 
 .st{
@@ -38,4 +38,22 @@
     border-bottom: 1px solid #8D6e6e;
     text-align: center;
     width: 100%;
+}
+
+.ts{
+    height: 945px;
+
+    padding: 0;
+}
+
+.header {
+    margin-right: 30px;
+    margin-top: 10px;
+    display: flex;         
+    justify-content: flex-end; 
+    align-items: center;
+}
+
+.header p {
+    margin-left: 30px;
 }
